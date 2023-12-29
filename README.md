@@ -8,5 +8,5 @@ Welcome to my GitHub repository showcasing my journey in data analysis! This por
 
 ## Skills
 - **SQL:** SQL queries for data extraction, transformation, and analysis
-- **Data Visualization:** Tableau, Google Data Studio
+- **Data Visualization:** PowerBI, Google Data Studio
 - **Excel & Spreadsheet:** Data analysis, formulae, and spreadsheet management, data visualization
